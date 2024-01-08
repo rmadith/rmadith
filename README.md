@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You can reach me @ rmadith@gmail.com!
+You can reach me @ rmadith@gmail.com
 
 <!--
 **rmadith/rmadith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
