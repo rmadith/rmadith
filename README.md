@@ -1,9 +1,15 @@
 # Muthu Adithya Ramnarayanan
 
-[⬇️ Download My Resume (PDF)](MyResume.pdf)
-
 ## Headline
 MS Electrical and Computer Engineering student advancing RISC-V compute, FPGA-accelerated graph intelligence, and production ML systems that bridge silicon and software.
+
+## Overview
+- Monochrome, Space Grotesk aesthetic hosted with GitHub Pages at [https://rmadith.github.io/](https://rmadith.github.io/) to echo a web3-meets-ECE vibe.
+- Mobile-first layout that stacks sections cleanly on phones, then expands into multi-column cards with evenly padded panels.
+- Consistent contrast, spacing, and metadata treatments across experience, projects, education, and skills for easy scanning.
+
+## Live Portfolio
+To keep the site fresh, ensure GitHub Pages is enabled for the `main` branch and the publishing source points to the `/docs` directory where the static assets live. The page mirrors the resume content below while highlighting flagship RISC-V, FPGA, and embedded ML projects.
 
 ## Education
 - **Georgia Institute of Technology** — M.S. Electrical and Computer Engineering (Aug 2024 – Dec 2026), Atlanta, GA
@@ -30,6 +36,8 @@ MS Electrical and Computer Engineering student advancing RISC-V compute, FPGA-ac
 
 ## Projects
 - **Embedded ML Inference System (May 2024 – Aug 2024)** — Designed a custom SystemVerilog RISC-V CPU with ML-specific instructions, integrated camera/peripheral drivers, and achieved a 30% Imagenet inference speedup over a baseline core.
+- **Tanks! (Jan 2024 – May 2024)** — Built an embedded C game targeting a five-stage RISC-V pipeline with interrupts, dynamic branch prediction, and a handcrafted VGA graphics engine. [GitHub](https://github.com/rmadith/554)
+- **MazeRunner (Aug 2023 – Dec 2023)** — Engineered an FPGA-driven robotics platform with custom SystemVerilog I2C/SPI controllers, pipelined PID motor control, and Design Compiler timing closure.
 
 ## Technical Skills
 - **Languages:** SystemVerilog, Embedded C, C/C++, CUDA, Python, Java, Bazel
